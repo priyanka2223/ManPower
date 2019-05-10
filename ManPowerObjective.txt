@@ -1,0 +1,39 @@
+                                                     ONLINE HOME SERVICES
+                                                     (A Web Application) 
+
+
+---> The aim of our project is to develop a Web application for connecting household Service seekers(customers) and Service providers(Technicians      like Electrician, Plumber, Painter etc). The service seeker (user), who has household problems, will use this interface to post their           problems through their respective accounts. For example if the Service Seeker’s AC or Fridge is not working, he doesn’t need 
+     to take struggle for the availability of technicians, instead he can post his problem on our website. Immediately the skilled persons          (technicians), who already registered on our site, will respond, go to customer’s house and resolve the problem .Here Servicers      (technicians) also will get number of opportunities to make their living by responding to the customer needs immediately. 
+
+---> At the end of this project development process, you would have applied your Object Oriented Concepts, Database understanding, UI design with      HTML, CSS, JavaScript, JQuery and Bootstrap and server side programming by using Servlets, JSP & JSTL and finally how to write the clean and 
+     structured code. 
+
+
+Roles of individuals involved : 
+
+ Admin: 
+      Admin is responsible to add the different types of services, which fall under different categories. 
+      Moreover he would approve skills of Service providers by collecting feedback from the given 
+      References by making personal calls & by checking customer ratings on website. Admin user 
+      can do followings: 
+      1. Login 
+      2. Approving the services of Service Providers(Technicians). 
+      3. Adding different types of Categories and SubCategories. 
+      4. LogOut 
+
+Service Seeker(Customer): 
+     Service Seeker must be registered into the web application and then login. If they have any 
+     sort of household problems, will post the problem through this web application and within 
+     short time they receive a response from the service provider and thus resolve the problem. 
+     Service seeker can do following: 
+     1. View Categories and SubCategories. 
+     2. Post a problem – Service seeker is allowed to post a problem 
+     3. Logout. 
+
+Service Provider(Technician): 
+     Service Provider also must be registered into the web application and then login. They should add 
+     their skills in which they have good experience. Admin should approve their added Skills to avail 
+     the service opportunities posted by Service seekers. Service provider can do following: 
+     1. View Household problems posted by Service Seekers, related to his skills. 
+     2. view Profile  
+     3. LogOut 
